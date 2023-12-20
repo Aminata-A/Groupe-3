@@ -5,3 +5,7 @@ body{
     background: rgb(215, 215, 245);
     color: #000;
 }
+footer ul{
+    display: flex;
+    text-decoration: none;
+}
